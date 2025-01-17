@@ -1,0 +1,7 @@
+{
+  "homepage": "https://ankushbittu.github.io/portfolio",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
+}

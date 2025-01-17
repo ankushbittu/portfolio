@@ -1,0 +1,5 @@
+<img
+  src="src/assets/profile.jpg"  // or whatever your image name is
+  alt="Ankush Reddy Merugu"
+  className="w-32 h-32 rounded-full mx-auto mb-6 object-cover shadow-lg"
+/>
